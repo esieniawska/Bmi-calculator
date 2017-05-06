@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="action_Settings">Settings</string>
+    <string name="weight_edit">Podaj swoją wagę w kilogramach</string>
+    <string name="height_edit">Podaj wzrost w metrach</string>
+    <string name="age_edit">Podaj swój wiek</string>/>
+    <string-array name="sex">
+        <item>mężczyzna</item>
+        <item>kobieta</item>
+    </string-array>
+
+    <string-array name="activity">
+        <item>codzienny trening wyczynowy</item>
+        <item>codzienne średnie i intensywne ćwiczenia</item>
+        <item>ćwiczenia 3-5 razy w tygodniu</item>
+        <item>czasami lekkie ćwiczenia</item>
+    </string-array>
+</resources>
